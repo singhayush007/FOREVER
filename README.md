@@ -19,7 +19,7 @@
 ## 📸 Screenshot
 
 <div align="center">
-  <img src="forever.png" alt="Forever E-Commerce Screenshot" width="100%" style="border-radius: 12px; border: 1px solid #e5e7eb;" />
+  <img src="frontend/src/assets/forever.png" alt="Forever E-Commerce Screenshot" width="100%" style="border-radius: 12px; border: 1px solid #e5e7eb;" />
 </div>
 
 ---
